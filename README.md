@@ -1,1 +1,1 @@
-# SSPCA-Net
+# SPCA-Net

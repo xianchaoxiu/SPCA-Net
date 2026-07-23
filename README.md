@@ -11,7 +11,7 @@ Directly run demo.py for reproduction.
 ### Citation
 Please give credits to this paper if this code is useful and helpful for your research.
 
-     @article{chen2025tuning,
+     @inproceedings{chen2025tuning,
       title     = {Tuning-Free Structured Sparse PCA via Deep Unfolding Networks}, 
       author    = {Chen, Long and Xiu, Xianchao},
       journal   = {2025 44th Chinese Control Conference (CCC)}, 
@@ -19,6 +19,6 @@ Please give credits to this paper if this code is useful and helpful for your re
       volume    = {},
       number    = {},
       pages     = {8097-8102},
-      publisher = {IEEE}
+      organization = {IEEE}
      }
 
